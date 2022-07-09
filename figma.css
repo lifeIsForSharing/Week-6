@@ -1,0 +1,207 @@
+body {
+    background-image: url(/Week6/assets/images/4_img.jpg);
+    color: white;
+}
+
+header {
+    height: 200px;
+    border: 1px solid white;
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    margin: 10px;
+}
+
+main {
+    height: 610px;
+    border: 1px solid red;
+}
+
+.footer {
+    background-color: rgb(253, 250, 250);
+    border: 1px solid rgb(222, 222, 6);
+    height: 400px;
+    display: flex;
+    align-content: space-between;
+}
+
+.button {
+    color: white;
+    background-color: rgba(199, 41, 5, 0.699);
+    height: 35px;
+    width: 150px;
+    margin-left: 75px;
+    margin-top: 5px;
+}
+
+.logo {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 230px;
+    margin-right: 20px;
+    font-family: Ribeye, Times, serif;
+}
+
+.home {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 281px;
+    margin-right: 50px;
+    font-family: Roboto, Times, serif;
+    font-weight: bolder;
+    font-size: small;
+}
+
+.location {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-family: Roboto, Times, serif;
+    font-weight: bolder;
+    font-size: small;
+}
+
+.blog {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-family: Roboto, Times, serif;
+    font-weight: bolder;
+    font-size: small;
+}
+
+.about {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 50px;
+    font-family: Roboto, Times, serif;
+    font-weight: bolder;
+    font-size: small;
+}
+
+.contact {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 172px;
+    font-family: Roboto, Times, serif;
+    font-weight: bolder;
+    font-size: small;
+}
+
+.banner {
+    color: white;
+    text-decoration: none;
+    margin-top: 86px;
+    margin-left: 218px;
+    font-family: Gelasio, Times, serif;
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.description {
+    color: white;
+    text-decoration: none;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 230px;
+    margin-right: 913;
+    font-family: Roboto, Times, serif;
+    font-weight: bolder;
+    font-size: small;
+    line-height: 1.7;
+}
+
+.button2 {
+    color: white;
+    background-color: rgba(199, 41, 5, 0.699);
+    height: 35px;
+    width: 150px;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+
+.socialmedia {
+    display: flex;
+}
+
+.footer1 {
+    font-family: Roboto, Times, serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+    margin-top: 60px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.footer1_contacts {
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.logo2 {
+    text-decoration: none;
+    color: black;
+    margin-top: 70px;
+    font-family: Ribeye, Times, serif;
+}
+
+.footer2 {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, Times, serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+    margin-top: 60px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.footer3 {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, Times, serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+    margin-top: 60px;
+    margin-left: 200px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.footer4 {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, Times, serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+    margin-top: 60px;
+    margin-left: 100px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.button3 {
+    color: white;
+    background-color: rgba(199, 41, 5, 0.699);
+    height: 35px;
+    width: 100px;
+}
+
+.footer4_email-block {
+    display: flex;
+    margin-top: 20px;
+}

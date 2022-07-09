@@ -1,0 +1,65 @@
+.header {
+    background-color: rgb(209, 207, 207);
+    text-align: center;
+    padding: 5px;
+    grid-column: 1/4;
+}
+
+.main {
+    background: rgb(246, 246, 206);
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100px 100px 100px;
+}
+
+.aside {
+    background-color: rgb(195, 251, 220);
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(194, 191, 191);
+    height: 90px;
+    grid-column: 1/4;
+    display: grid;
+    align-items: flex-start;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.article1 {
+    background-color: rgb(250, 221, 151);
+    margin: 10px;
+    text-align: center;
+}
+
+.article2 {
+    background-color: rgb(250, 221, 151);
+    margin: 10px;
+    text-align: center;
+}
+
+.article3 {
+    background-color: rgb(250, 221, 151);
+    margin: 10px;
+    text-align: center;
+}
+
+.section {
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    height: 50px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 10% 1fr 10%;
+    height: 70vh;
+}
+
+.part1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
